@@ -4,7 +4,7 @@ plugins {
 
 android {
     compileSdkVersion 30
-
+        //test
     defaultConfig {
         applicationId "com.playplan.test"
         minSdkVersion 16
